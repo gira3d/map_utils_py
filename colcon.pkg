@@ -1,0 +1,8 @@
+{
+  "name": "map_utils_py",
+  "dependencies": {
+    "pybind11",
+    "map_utils"
+  },
+  "hooks": []
+}
